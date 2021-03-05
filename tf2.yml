@@ -1,0 +1,37 @@
+name: tf2
+channels:
+  - defaults
+dependencies:
+  - graphviz
+  - numpy=1.19
+  - requests=2.25
+  - pyopengl=3.1
+  - pillow=8.1
+  - ipywidgets=7.6
+  - pip
+  - scipy=1.6
+  - gym=0.18
+  - opencv=4.5
+  - jupyter=1.0
+  - joblib=0.14
+  - pandas=1.2
+  - atari_py=0.2
+  - ipython=7.20
+  - matplotlib=3.3
+  - widgetsnbextension=3.5
+  - nbdime=2.1
+  - numexpr=2.7
+  - tqdm=4.56
+  - nltk=3.4
+  - transformers=4.3
+  - python=3.7
+  - python-graphviz
+  - py-xgboost=0.90
+  - pyglet=1.5
+  - ftfy=5.8
+  - wheel
+  - scikit-learn=0.24
+  - jupyterthemes
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/tf2

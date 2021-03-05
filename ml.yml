@@ -1,0 +1,16 @@
+name: ml
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - requests
+  - jedi=0.17
+  - matplotlib
+  - python=3.8
+  - altair
+  - pandas
+  - scikit-learn
+  - pip:
+      - tensorflow
