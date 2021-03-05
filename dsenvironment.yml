@@ -1,0 +1,31 @@
+name: ds
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - jupyter
+  - matplotlib
+  - jupyter_contrib_nbextensions
+  - jupyterthemes
+  - beautifulsoup4
+  - qgrid
+  - autopep8
+  - xlrd
+  - jupyterlab
+  - requests
+  - selenium
+  - pylint
+  - modernize
+  - flake8
+  - jupyterlab_code_formatter
+  - sqlalchemy
+  - vega_datasets
+  - geopandas
+  - altair
+  - pydeck
+  - jupyterlab-git
+prefix: C:\Miniconda3\envs\ds
+

@@ -1,0 +1,24 @@
+name: ds
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - scrapy
+  - jupyterlab
+  - requests
+  - dash
+  - beautifulsoup4
+  - pymysql
+  - xmltodict
+  - sqlalchemy
+  - jedi=0.17
+  - matplotlib
+  - python=3.8
+  - altair
+  - selenium
+  - pandas
+  - fastapi
+  - uvicorn
+  - dash-bootstrap-components
+  - cookiecutter

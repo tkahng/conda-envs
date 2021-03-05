@@ -1,0 +1,14 @@
+name: fast
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8
+  - jedi=0.17
+  - fastapi
+  - pandas
+  - uvicorn
+  - pyjwt
+  - celery
+  - cookiecutter
