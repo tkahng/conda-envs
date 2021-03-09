@@ -1,0 +1,19 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - altair
+  - pip
+  - python=3.8
+  - jupyterlab
+  - scikit-learn
+  - jedi=0.17
+  - requests
+  - pandas
+  - matplotlib
+  - tqdm
+  - seaborn
+  - pytorch
+  - torchvision
+  - progressbar
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/ml
