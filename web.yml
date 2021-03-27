@@ -4,32 +4,48 @@ channels:
   - defaults
 dependencies:
   - asgiref=3.3.1=pyhd8ed1ab_0
+  - brotlipy=0.7.0=py38h5406a74_1001
   - ca-certificates=2020.12.5=h033912b_0
   - certifi=2020.12.5=py38h50d1736_1
+  - cffi=1.14.5=py38ha97d567_0
+  - chardet=4.0.0=py38h50d1736_1
+  - cryptography=3.4.6=py38h1fa4640_0
   - django=3.1.7=pyhd8ed1ab_0
+  - django-js-asset=1.2.2=py_0
+  - django-mptt=0.12.0=pyhd8ed1ab_0
+  - elasticsearch=7.10.1=pyhd3deb0d_0
+  - idna=2.10=pyh9f0ad1d_0
   - jedi=0.17.2=py38h50d1736_1
   - libcxx=10.0.0=1
   - libffi=3.3=hb1e8313_2
   - ncurses=6.2=h0a44026_1
-  - openssl=1.1.1j=hbcf498f_0
+  - openssl=1.1.1k=h0d85af4_0
   - parso=0.7.1=pyh9f0ad1d_0
   - pip=21.0.1=py38hecd8cb5_0
+  - pycparser=2.20=pyh9f0ad1d_2
+  - pyopenssl=20.0.1=pyhd8ed1ab_0
+  - pysocks=1.7.1=py38h50d1736_3
   - python=3.8.8=h88f2d9e_4
   - python_abi=3.8=1_cp38
   - pytz=2021.1=pyhd8ed1ab_0
   - readline=8.1=h9ed2024_0
+  - requests=2.25.1=pyhd3deb0d_0
   - setuptools=52.0.0=py38hecd8cb5_0
+  - six=1.15.0=pyh9f0ad1d_0
   - sqlite=3.35.2=hce871da_0
   - sqlparse=0.4.1=pyh9f0ad1d_0
   - tk=8.6.10=hb0a8c7a_0
+  - urllib3=1.26.4=pyhd8ed1ab_0
   - wheel=0.36.2=pyhd3eb1b0_0
   - xz=5.2.5=h1de35cc_0
   - zlib=1.2.11=h1de35cc_3
   - pip:
     - anyascii==0.1.7
     - beautifulsoup4==4.8.2
-    - chardet==4.0.0
+    - defusedxml==0.7.1
+    - diff-match-patch==20200713
     - django-filter==2.4.0
+    - django-import-export==2.5.0
     - django-modelcluster==5.1
     - django-taggit==1.3.0
     - django-treebeard==4.5.1
@@ -37,15 +53,14 @@ dependencies:
     - draftjs-exporter==2.1.7
     - et-xmlfile==1.0.1
     - html5lib==1.1
-    - idna==2.10
     - l18n==2020.6.1
+    - markuppy==1.14
+    - odfpy==1.4.1
     - openpyxl==3.0.7
     - pillow==8.1.2
-    - requests==2.25.1
-    - six==1.15.0
+    - pyyaml==5.4.1
     - soupsieve==2.2.1
     - tablib==3.0.0
-    - urllib3==1.26.4
     - wagtail==2.12.3
     - webencodings==0.5.1
     - willow==1.4
