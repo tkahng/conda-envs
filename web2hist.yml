@@ -11,4 +11,9 @@ dependencies:
   - fastapi
   - uvicorn
   - sqlalchemy
+  - djangorestframework
+  - uvicorn
+  - pyjwt
+  - celery
+  - alembic
 prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web

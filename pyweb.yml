@@ -1,4 +1,4 @@
-name: fast
+name: web
 channels:
   - conda-forge
   - anaconda
@@ -6,9 +6,18 @@ channels:
 dependencies:
   - python=3.8
   - jedi=0.17
+  - django
+  - elasticsearch=7.10.1
+  - django-mptt
   - fastapi
-  - pandas
+  - uvicorn
+  - sqlalchemy
+  - djangorestframework
   - uvicorn
   - pyjwt
   - celery
-  - cookiecutter
+  - alembicbrew list --cask
+  # - python-dotenv
+  - pip:
+      - django-cors-headers
+      - drf-nested-routers
