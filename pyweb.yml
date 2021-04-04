@@ -16,7 +16,9 @@ dependencies:
   - uvicorn
   - pyjwt
   - celery
-  - alembicbrew list --cask
+  - alembic
+  - httpie
+  - autopep8
   # - python-dotenv
   - pip:
       - django-cors-headers
