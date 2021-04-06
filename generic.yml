@@ -1,0 +1,11 @@
+name: generic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - requests
+  - jedi=0.17
+  - python=3.8
+  - autopep8
+  - pandas
