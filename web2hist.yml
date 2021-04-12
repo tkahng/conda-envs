@@ -16,4 +16,7 @@ dependencies:
   - pyjwt
   - celery
   - alembic
+  - flask
+  - flask-restful
+  - gunicorn
 prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web
