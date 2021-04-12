@@ -19,4 +19,9 @@ dependencies:
   - flask
   - flask-restful
   - gunicorn
+  - pip:
+      - django-cors-headers==3.7.0
+      - django-ninja==0.12.2
+      - drf-nested-routers==0.93.3
+
 prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web
