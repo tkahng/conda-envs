@@ -5,7 +5,7 @@ channels:
 dependencies:
   - python=3.8
   - jedi=0.17
-  - django
+  - django=3.1.8
   - elasticsearch=7.10.1
   - django-mptt
   - fastapi
@@ -23,5 +23,5 @@ dependencies:
       - django-cors-headers==3.7.0
       - django-ninja==0.12.2
       - drf-nested-routers==0.93.3
-
+      - django-ckeditor
 prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web
