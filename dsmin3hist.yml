@@ -1,0 +1,27 @@
+name: dsmin
+channels:
+  - conda-forge
+dependencies:
+  - scrapy
+  - jupyterlab
+  - requests
+  - dash
+  - beautifulsoup4
+  - pymysql
+  - xmltodict
+  - sqlalchemy
+  - jedi=0.17
+  - matplotlib
+  - python=3.8
+  - altair
+  - selenium
+  - pandas
+  - fastapi
+  - uvicorn
+  - dash-bootstrap-components
+  - cookiecutter
+  - seaborn
+  - nbdime
+  - jupyterlab-lsp
+  - python-language-server
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/dsmin
