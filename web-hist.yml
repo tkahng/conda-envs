@@ -1,0 +1,25 @@
+name: web
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jedi=0.17
+  - django
+  - elasticsearch=7.10.1
+  - django-mptt
+  - fastapi
+  - uvicorn
+  - sqlalchemy
+  - pygments
+  - alembic
+  - pymysql
+  - python-dotenv
+  - httpie
+  - autopep8
+  - flask
+  - flask-restful
+  - gunicorn
+  - markdown
+  - python-multipart
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web
