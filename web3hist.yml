@@ -22,6 +22,8 @@ dependencies:
   - gunicorn
   - markdown
   - python-multipart
+  - grpcio
+  - grpcio-tools
   - pip:
       - django-cors-headers==3.7.0
       - django-ninja==0.12.2
