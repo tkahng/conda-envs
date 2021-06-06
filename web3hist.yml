@@ -24,13 +24,8 @@ dependencies:
   - python-multipart
   - grpcio
   - grpcio-tools
-  - pip:
-      - django-cors-headers==3.7.0
-      - django-ninja==0.12.2
-      - drf-nested-routers==0.93.3
-      - djangorestframework==3.12.2
-      - django-ckeditor
-      - aiofiles
-      - manage-fastapi
-      - mangum
+  - pylint
+  - email-validator
+  - databases
+  - typer
 prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/web

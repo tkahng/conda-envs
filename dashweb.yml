@@ -1,15 +1,15 @@
 name: dashweb
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - python=3.8
-  - jedi=0.17
-  - dash
-  - dash-bootstrap-components
-  - pandas
-  - sqlalchemy
   - pymysql
   - python-dotenv
-  - autopep8
+  - sqlalchemy
+  - dash-bootstrap-components
+  - pandas
   - gunicorn
+  - python=3.8
+  - autopep8
+  - jedi=0.17
+  - dash
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/dashweb
