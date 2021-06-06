@@ -1,8 +1,9 @@
 name: generic
 channels:
   - conda-forge
-  - defaults
 dependencies:
+  - jupyterlab-lsp
+  - python-language-server
   - jupyterlab
   - requests
   - jedi=0.17
