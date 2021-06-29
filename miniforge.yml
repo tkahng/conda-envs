@@ -1,0 +1,12 @@
+name: ml2
+channels:
+  - conda-forge
+dependencies:
+  # - jupyterlab-lsp
+  # - python-language-server
+  - jupyterlab
+  - requests
+  - jedi=0.17
+  - python=3.8
+  # - autopep8
+  - pandas
