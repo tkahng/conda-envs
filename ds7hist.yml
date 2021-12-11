@@ -1,0 +1,28 @@
+name: ds
+channels:
+  - defaults
+dependencies:
+  - python-language-server
+  - dash
+  - matplotlib
+  - scrapy
+  - jedi=0.17
+  - nbdime
+  - seaborn
+  - fastapi
+  - uvicorn
+  - beautifulsoup4
+  - xmltodict
+  - cookiecutter
+  - pymysql
+  - sqlalchemy
+  - pandas
+  - dash-bootstrap-components
+  - altair
+  - requests
+  - jupyterlab
+  - jupyterlab-lsp
+  - python=3.8
+  - pip
+  - selenium
+prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/ds
