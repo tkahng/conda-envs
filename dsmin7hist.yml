@@ -1,5 +1,6 @@
-name: dsmin
+name: ds
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - cookiecutter
@@ -30,4 +31,3 @@ dependencies:
   - redis
   - elasticsearch-dsl
   - phonenumbers
-prefix: /Users/qwerkytchunoo/opt/miniconda3/envs/dsmin
