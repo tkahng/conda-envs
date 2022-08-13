@@ -1,0 +1,42 @@
+## basic ds
+
+pandas
+
+# jupyterlab
+
+## formatter
+
+black
+
+## making api calls
+
+# requests
+
+## webcrawling
+
+# scrapy
+# xmltodict
+# selenium
+# beautifulsoup4
+
+## sql support
+
+# PyMySQL
+# SQLAlchemy
+
+## geospatial
+
+## for geopandas 
+
+# shapely
+# fiona
+# pyproj
+# packaging
+# geopandas
+
+# pydeck
+
+## visualization
+
+# plotly
+# altair
