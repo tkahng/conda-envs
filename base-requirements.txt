@@ -8,6 +8,10 @@ pandas
 
 black
 
+## typings
+
+# typing_extensions
+
 ## making api calls
 
 # requests
